@@ -49,10 +49,9 @@ This project provides a **data-driven HR solution** that helps organizations mon
 
 ## 📂 Project Structure  
 📁 Attendance-Tracker
-├── 📊 Attendance_Tracker.pbix # Power BI Dashboard file
-├── 📑 Data.csv # Employee attendance & salary dataset
-├── 🖼️ Screenshot.png # Dashboard preview
-└── 📘 README.md # Project documentation
+├── 📊 https://github.com/Bishakhakapur/Attendance-Tracker-Analysis/blob/main/Attendance%20Tracker%20Dashboard.pbix # Power BI Dashboard file
+
+├── 📑 https://github.com/Bishakhakapur/Attendance-Tracker-Analysis/blob/main/Main%20Attendance%20Data%20Sheet.xlsx # Employee attendance & salary dataset
 
 ---
 
@@ -70,8 +69,6 @@ This project is built to simplify **HR analytics** and provide quick, reliable i
 
 ---
 
-## 🏷️ Trending Hashtags  
+Author - Bishakha Kapur
 
-#DataAnalytics #PowerBI #AttendanceTracker #HRAnalytics  
-
-
+Contact on - bishakhakapur7@gmail.com
