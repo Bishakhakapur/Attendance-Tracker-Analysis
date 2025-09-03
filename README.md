@@ -17,7 +17,7 @@ This project provides a **data-driven HR solution** that helps organizations mon
 ---
 
 ## 📸 Dashboard Preview  
-![Attendance Tracker Dashboard](Screenshot%202025-09-03%20182455.png)  
+![Attendance Tracker Dashboard](https://github.com/Bishakhakapur/Attendance-Tracker-Analysis/blob/main/AT%20Dashboard%20png.png)  
 
 ---
 
